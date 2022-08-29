@@ -5,7 +5,7 @@ from Display import Display
 
 
 def clear_screen():
-    os.system('cls')
+    os.system('cls' if os.name == 'windows' else 'clear')
 
 
 def generate_numbers(avtomat):
