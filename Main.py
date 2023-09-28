@@ -13,7 +13,7 @@ def generate_numbers(avtomat):
     avtomat.choosing_number(1, random.randint(20, 40))
     avtomat.choosing_number(2, random.randint(20, 40))
 
-
+//dfvdfvdfvdfvdfv
 avtomat = Display(['1', '2', '3', '4', '5', '$'])
 money = 10000
 while True:
@@ -35,4 +35,4 @@ while True:
     else:
         break
 
-print(f'Вы ушли с {money}$')
+print(f'Вы ушли с {money}$\nПриятного отдыха')
