@@ -35,4 +35,4 @@ while True:
     else:
         break
 
-print(f'Вы ушли с {money}$')
+print(f'Вы ушли с {money}$\nПриятного отдыха')
